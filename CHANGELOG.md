@@ -3,18 +3,20 @@
 # 1.2.3 - In progress
 
 - [REFACTOR] Migrate widgets to WorkManager
-- [Feature] Add mfkey32 attack in debug/options
+- [Feature] Add mfkey32 attack in debug/options + button back
 - [Feature] Add HUB tab
 - [Feature] Wrap more errors with widget
 - [Feature] Add error screen on mfkey32
 - [Feature] Not found if key not found in mfkey32
 - [Feature] Fix format for user keys
 - [Feature] Updater card display update from url
+- [Feature] Add screenshot and unlock to screenstreaming
 - [CI] Auto git submodule update via gradle task
 - [FIX] Options button in device screen
 - [FIX] WearOS connection
 - [FIX] Screen streaming broke
 - [FIX] Flipper color on error screen
+- [FIX] Widget options not working in some android devices
 
 # 1.2.2
 
